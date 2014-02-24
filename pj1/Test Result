@@ -1,0 +1,46 @@
+/*Test Result*/
+
+Beginning Part I.
+Performing 5 boxBlur(1) calls, then one boxBlur(3) calls on a 11x15 image.
+  Test successful.
+
+Performing a sobelEdges call on feathers.tiff.
+  Reading feathers.tiff.
+  Test successful.
+
+Total Part I score:  8 out of 8.
+Total Autogradable score so far:  8 out of 8.
+
+Beginning Part II.
+Performing a 4x4 RunLengthEncoding-to-PixImage test.
+  Calling the six-parameter constructor.
+  Reading back the encoding through nextRun.
+  Calling toPixImage.
+  Test successful.
+
+Total Part II score:  5 out of 5.
+Total Autogradable score so far:  13 out of 13.
+
+Beginning Part III.
+Run-length encoding a PixImage.
+  Reading highcontrast.tiff.
+  Calling the one-parameter RunLengthEncoding constructor.
+  Converting back to a PixImage.
+  Test successful.
+
+Total Part III score:  4 out of 4.
+Total Autogradable score so far:  17 out of 17.
+
+Beginning Part IV.
+Setting pixels in your 4x4 run-length encoding (from Part II).
+  Setting (3, 2) to [red=5, green=10, blue=136].
+  Setting (0, 3) to [red=5, green=10, blue=136].
+  Setting (1, 0) to [red=1, green=18, blue=42].
+  Setting (2, 0) to [red=1, green=18, blue=42].
+  Setting (0, 0) to [red=1, green=18, blue=42].
+  Test successful.
+
+Total Part IV score:  2 out of 2.
+Total Autogradable score:  19 out of 19.
+
+(Note:  1 hand-graded point will be for your check() method.)
