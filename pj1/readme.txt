@@ -1,3 +1,6 @@
+Did this project purely for fun. Took this class before but it was a completely different project.
+---------------------------------------------------------------------------------------------------
+
                                CS 61B Project 1
             Color Images, Edge Detection, and Run-Length Encodings
                    Due midnight Saturday, February 22, 2014
